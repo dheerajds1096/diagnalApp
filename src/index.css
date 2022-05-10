@@ -6,7 +6,7 @@
 html, body, #root {
   height: 100%;
   /* overflow: hidden; */
-  max-width: 400px;
+  max-width: 450px;
   margin: auto;
 }
 
