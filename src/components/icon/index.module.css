@@ -1,0 +1,21 @@
+.iconContainer {
+    display: flex;
+    align-items: center;
+}
+
+.icon-back {
+    background-image: url('../../../public/images/back.png');
+    background-size: 20px;
+    height: 20px;
+    width: 20px;
+    background-repeat: no-repeat;
+}
+
+.icon-search {
+    background-image: url('../../../public/images/search.png');
+    background-size: 23px;
+    height: 20px;
+    width: 25px;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
